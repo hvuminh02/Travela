@@ -221,8 +221,8 @@ const chatInput = document.getElementById("chat-input-textarea");
 const sendChatBtn = document.getElementById("send-btn");
 let userMessage = null;
 
-const API_ENDPOINT = "http://localhost:7860/api/v1/run/c0a0e6fb-28a0-4a18-80ab-4f45fba267e6";
-const API_KEY = "sk-_68zBlXCb2iUPEj1MK6L-M00286oLd-WZcp9vc0aT_Q"; 
+const API_ENDPOINT = "https://dev-test.autobiz.ai/api/v1/run/420d205b-f730-4f63-a055-4c610057856f";
+const API_KEY = "sk-ms3iz0gNocLgpmJMa19R2BzdkDsll6ZZCm_Q0oTEL-s"; 
 
 // =======================================================================
 // CHAT HISTORY PERSISTENCE (JSON FIX)

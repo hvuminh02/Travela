@@ -80,38 +80,6 @@ const chatbotStyles = `
     display: flex; flex-direction: column;
 }
 
-/* Mobile-friendly styles */
-@media (max-width: 768px) {
-    #chatbot-container {
-        width: 90%;
-        max-height: 80vh;   /* Fit within viewport height */
-        bottom: 100px;
-        right: 5%;
-        left: 5%;
-        border-radius: 16px;
-    }
-    #chatbot-toggler {
-        bottom: 20px;
-    }
-
-    #chatbox {
-        height: calc(70vh - 100px); /* Adjust dynamically */
-        padding: 20px 12px 15px;
-    }
-
-    .chatbot-header h2 {
-        font-size: 1rem;
-    }
-
-    .chat p {
-        max-width: 100%; /* Allow full width on mobile */
-        font-size: 0.9rem;
-    }
-
-    .chat-input textarea {
-        font-size: 0.9rem;
-    }
-}
 
 #chatbot-container.show { 
     transform: scale(1); 

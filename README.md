@@ -36,10 +36,10 @@ This project highlights the ability to bridge modern AI research with practical 
 Demo picture and Workflow
 
 This is a little demo
-<img width="1897" height="976" alt="{010CBE54-C798-42A8-A58F-950BB1521CC3}" src="https://github.com/user-attachments/assets/b17247e3-cdb7-4794-9501-3533421acd5b" />
+<img width="1894" height="973" alt="{AA207674-20DA-47B1-A3F2-21DCE6227D64}" src="https://github.com/user-attachments/assets/96e24c4d-3b5e-45a8-bcf8-605f7739766a" />
 
 Here is the workflow built in Langflow
-<img width="1915" height="976" alt="{7E078911-3E90-4735-8CE2-EE663B3A4B34}" src="https://github.com/user-attachments/assets/3c5839b5-cf57-4a22-85ea-e44da9b87e18" />
+<img width="1920" height="976" alt="{6A28E339-0EC8-4806-9223-37517713AD38}" src="https://github.com/user-attachments/assets/3936a1b2-ed76-4292-b0f5-0f73fb92f63c" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
